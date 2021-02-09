@@ -57,7 +57,8 @@ app.use('/projects/:id', validadeProjectId)
 app.get('/projects', (request, response) => {
   const {title} = request.query;
   
-  const results = title ? projects.filter(project => project.title.includes(title)) : projects;
+  const results = title ? projects.filter(project => 
+    project.title.includes(title)) : projects;
 
   return response.json(results);
 });
