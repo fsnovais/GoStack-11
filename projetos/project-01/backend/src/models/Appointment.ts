@@ -10,6 +10,7 @@ class Appointment {
   @Column()
   provider_id: string;
 
+
   @ManyToOne(()=> Users)
   @JoinColumn({ name: 'provider_id'})
   provider: Users;

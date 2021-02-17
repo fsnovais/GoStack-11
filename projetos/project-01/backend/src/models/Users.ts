@@ -6,6 +6,9 @@ class Users {
   id: string;
 
   @Column()
+  avatar: string;
+
+  @Column()
   name: string;
 
   @Column()
