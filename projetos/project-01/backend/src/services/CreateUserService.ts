@@ -3,6 +3,8 @@ import {hash} from 'bcryptjs'
 
 import User from '../models/Users'
 
+import AppError from '../errors/AppError'
+
 interface UserIterface {
   name: string,
   email: string,
@@ -18,7 +20,7 @@ class CreateUserService {
       where: {email}
     });
     if (checkDouplicatedEmail){
-      throw new Error('This email is already taken')
+      throw new AppError('This email is already taken')
     }
     const hashedPassword = await hash(password, 8);
     const user = usersRepository.create( {
