@@ -27,25 +27,39 @@
 
 **backend**
 
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/conceitos/backend/)
+
 **frontend**
+
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/conceitos/frontend/)
 
 **mobile**
 
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/conceitos/mobile/)
+
 **typescript**
+
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/conceitos/typescript/)
 
 # :white_check_mark: Projetos
 
 **GoBarber**
 
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/projetos/project-01)
+
 # :mortar_board: Desafios
 
 **Desafio Conceitos do Node.js**
 
-- [Saiba mais](https://github.com/phellippe/GoStack-11/tree/main/conceitos/backend/)
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/Desafios/01%20-%20Desafio-conceitos-nodejs)
 
 **Desafio Conceitos do ReactJS**
 
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/Desafios/02%20-%20Desafio-conceitos-ReactJs)
+
 **Desafio Conceitos do React Native**
+
+- [Expandir :page_with_curl:](https://github.com/phellippe/GoStack-11/tree/main/Desafios/03%20-%20Desafio-conceitos-reactNative)
 
 # :postbox: Faq
 
