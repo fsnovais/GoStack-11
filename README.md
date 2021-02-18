@@ -70,7 +70,7 @@ As tecnologias utilizadas neste projeto estão descritas dentro do arquivo de ca
 
 # :scream_cat: Problemas
 
-Sinta-se à vontade para **registrar um novo problema** com um título e descrição respectivos no repositório [phellippe] (https://github.com/phellippe/GoStack-11/issues). Se você já encontrou uma solução para seu problema, **adoraria revisar seu pull request**!
+Sinta-se à vontade para **registrar um novo problema** com um título e descrição respectivos no repositório [GoStack-11](https://github.com/phellippe/GoStack-11/issues). Se você já encontrou uma solução para seu problema, **adoraria revisar seu pull request**!
 
 # :closed_book: Licença
 
