@@ -41,7 +41,7 @@
 
 **Desafio Conceitos do Node.js**
 
-- [Saiba mais](https://github.com/phellippe/GoStack-11/conceitos/backend/)
+- [Saiba mais](https://github.com/phellippe/GoStack-11/tree/main/conceitos/backend/)
 
 **Desafio Conceitos do ReactJS**
 
