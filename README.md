@@ -64,4 +64,4 @@ Sinta-se à vontade para ** registrar um novo problema ** com um título e descr
 # :closed_book: Licença
 
 Lançado em 2021.
-Este projeto está sob a [licença MIT](https://github.com/phellippe/phellippe/master/LICENSE).
+Este projeto está sob a [licença MIT](https://github.com/phellippe/GoStack-11/blob/main/LICENSE).
