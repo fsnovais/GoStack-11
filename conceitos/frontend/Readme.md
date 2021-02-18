@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://github.com/phellippe/GoStack-11/blob/main/logo/gostack-rocketseat.png" />
 
 
-# Projeto GoBarber
+# Conceitos de FrontEnd
 
 > Projeto realizado durante o bootcamp da rocketseat
 
@@ -25,44 +25,12 @@
 <br />
 
 # :rocket: Recursos
-## API ##
-* Rota para autenticar um usuário
-* Rota para registrar um novo usuário
-* Rota para mostrar o perfil de um usuário
-* Rota para atualizar o avatar de um usuário
-* Rota para atualizar o perfil de um usuário
-* Caminho para esquecer uma senha
-* Caminho para redefinir uma senha
-* Rota para criar um agendamento
-* Rota para listar a disponibilidade do dia
-* Rota para listar a disponibilidade do mês
-* Rota para listar os usuários
-* Rota para listar os agendamentos dos usuários
 
-## Web ##
-
-<!-- *Autenticação de Login e logout
-*Criar uma nova conta como usuários
-*Dashboard para mostrar os dados de um usuário
-*Dashboard para atualizar os dados de um usuário
-*Tela para recuperar a senha
-*Criar um agendamento
-*Mostrar todos os usuários
-*Verificar os compromissos dos usuários -->
-
-## Mobile ##
-
-<!-- *Autenticação de Login e logout
-*Criar uma nova conta como usuários
-*Dashboard para mostrar os dados de um usuário
-*Dashboard para atualizar os dados de um usuário
-*Tela para recuperar a senha
-*Criar um agendamento
-*Mostrar todos os usuários
-*Verificar os compromissos dos usuários -->
+* Criação de novos projetos
+* Dashboard para listar projetos
 
 # :construction_worker: Instalação
-**Você precisa instalar [NodeJS](https://nodejs.org/en/), [Java](https://www.java.com/pt-BR/), [ReactNative](https://reactnative.dev/) e [Yarn](https://yarnpkg.com/) primeiro. Você precisa ter um emulador de dispositivo móvel configurado em seu ambiente de desenvolvimento ou um celular conectado com deputação USB ativa. Então, para clonar o projeto via HTTPS, execute este comando:**
+**Você precisa instalar [NodeJS](https://nodejs.org/en/) e [Yarn](https://yarnpkg.com/) primeiro. Então, para clonar o projeto via HTTPS, execute este comando:**
 
 ```git clone https://github.com/phellippe/GoStack-11.git```
 
@@ -78,22 +46,17 @@ Você precisa instalar as dependências do projeto, então **execute o comando a
 
 # :runner: Começando
 
-## API ##
-
 Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolvimento:
 
-```yarn dev: server```
+```yarn dev```
 
-## Web ##
-
-## Mobile ##
 
 # :postbox: Faq
 
 **Pergunta:** Quais são as tecnologias utilizadas neste projeto?
 
 **Resposta:** 
-As tecnologias utilizadas neste projeto são [NodeJS](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/), [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken), [Multer](https://www.npmjs.com/package/multer), [EsLint](https://eslint.org/), [Bcryptjs](https://www.npmjs.com/package/bcryptjs), [Prettier](https://prettier.io/), [Typescript](https://www.typescriptlang.org/), [Date-fns](https://date-fns.org/), [Express](https://expressjs.com/pt-br/), [Reflect-metadata](https://www.npmjs.com/package/reflect-metadata), [TypeOrm](https://typeorm.io/#/), [uuid](https://www.npmjs.com/package/uuid)
+As tecnologias utilizadas neste projeto são [NodeJS](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/), [Babel](https://babeljs.io/), [Webpack](https://webpack.js.org/), [Axios](https://www.npmjs.com/package/axios),[ReactJS](https://pt-br.reactjs.org/).
 
 # :scream_cat: Problemas
 
