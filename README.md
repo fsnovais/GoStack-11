@@ -1,7 +1,4 @@
-<!--- <p align="left">
-   <img src="docs/logo.png" width="150"/>
-</p> --->
-
+<img alt="GoStack" src="https://github.com/phellippe/GoStack-11/blob/main/logo/gostack-rocketseat.png" />
 
 # Bootcamp GoStack11
 
@@ -44,8 +41,8 @@
 
 **Desafio Conceitos do Node.js**
 
-- [bash](https://meleu.github.io/my-notes/bash) - [✏️](https://github.com/meleu/my-notes/edit/master/bash.md)
-- 
+- [Saiba mais](https://github.com/phellippe/GoStack-11/tree/master/conceitos/backend/)
+
 **Desafio Conceitos do ReactJS**
 
 **Desafio Conceitos do React Native**
