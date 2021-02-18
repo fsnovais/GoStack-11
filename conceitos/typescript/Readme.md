@@ -1,7 +1,7 @@
 <img alt="GoStack" src="https://github.com/phellippe/GoStack-11/blob/main/logo/gostack-rocketseat.png" />
 
 
-# Conceitos de FrontEnd
+# Conceitos de Typescript
 
 > Projeto realizado durante o bootcamp da rocketseat
 
