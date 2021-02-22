@@ -59,7 +59,7 @@ Execute o seguinte comando para apenas iniciar a aplicação em um ambiente de d
 **Pergunta:** Quais são as tecnologias utilizadas neste projeto?
 
 **Resposta:** 
-As tecnologias utilizadas neste projeto são [NodeJS](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/), [Babel](https://babeljs.io/), [EsLint](https://eslint.org/), [Axios](https://www.npmjs.com/package/axios),[ReactJS](https://pt-br.reactjs.org/),[ReactNative](https://reactnative.dev/), [Jest](https://jestjs.io/).
+As tecnologias utilizadas neste projeto são [NodeJS](https://nodejs.org/en/), [Yarn](https://yarnpkg.com/), [Babel](https://babeljs.io/), [EsLint](https://eslint.org/), [Axios](https://www.npmjs.com/package/axios), [ReactJS](https://pt-br.reactjs.org/), [ReactNative](https://reactnative.dev/), [Jest](https://jestjs.io/).
 
 # :scream_cat: Problemas
 

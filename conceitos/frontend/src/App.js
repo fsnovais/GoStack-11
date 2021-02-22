@@ -3,7 +3,6 @@ import api from './services/api';
 
 import Header from './components/Header';
 import './App.css'
-import background from './assets/background.jpg'
 
 function App() {
   const [projects, setProjects] = useState([])
@@ -25,7 +24,6 @@ async function handleAddProject() {
   return (
     <>
     <Header title="Projects"/>
-      <img width='200' src={background}/>
       <ul>
       {projects.map( project => <li key={project.id}>{project.title}</li>)}
       </ul>

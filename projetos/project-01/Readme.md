@@ -82,7 +82,7 @@ Você precisa instalar as dependências do projeto, então **execute o comando a
 
 Execute o seguinte comando para iniciar o aplicativo em um ambiente de desenvolvimento:
 
-```yarn dev: server```
+```yarn dev:server```
 
 ## Web ##
 
